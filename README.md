@@ -1,2 +1,2 @@
 # numba-image-processing
-Accelerating Batch Processing of Images in Python
+Accelerating batch processing of images from PIL images to list of numpy arrays using numba and concurrent.futures
